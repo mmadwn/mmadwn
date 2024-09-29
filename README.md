@@ -1,7 +1,7 @@
 ### <p align="center"> Hey, I'm Ridwan (He/Him)</p>
 
 <p align="center">
-  🚀 Passionate about creating innovative solutions and learning new technologies
+  🚀 Passionate about creating innovative solutions and learning new technologies also i love sports
 </p>
 
 - 🖥️ Computer Engineering graduate from Diponegoro University
