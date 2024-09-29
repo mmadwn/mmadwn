@@ -32,3 +32,9 @@
 [![linkedin](https://img.shields.io/badge/-linkedin-424549?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mmadwn/)
 [![Email](https://img.shields.io/badge/-Email-424549?style=flat-square&logo=gmail)](mailto:muh.rdwan.u@gmail.com)
 [![Discord](https://img.shields.io/badge/-Discord-424549?style=flat-square&logo=discord)](https://discord.com/users/357946202672726016)
+
+
+<p>
+  <a href="https://discord.gg/mu9dXrUfS3">Join our Discord for tech talks!</a>
+</p>
+
