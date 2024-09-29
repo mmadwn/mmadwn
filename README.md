@@ -4,11 +4,12 @@
   🚀 Passionate about creating innovative solutions and learning new technologies
 </p>
 
-- 🎓 I'm a computer engineering graduate from Diponegoro University
-- 🌱 I'm currently learning about web and mobile development
+- 🖥️ Computer Engineering graduate from Diponegoro University
+- 🌐 Exploring Web and Mobile Development
 - 💼 Open to exciting opportunities in the tech industry
 
 ##### 💡 Skills & Interests:
+- Motion Design
 - Full Stack Development
 - Cloud Computing
 
@@ -26,7 +27,7 @@
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 
-##### 🌐 Social Links:
+##### Social Links:
 
 [![linkedin](https://img.shields.io/badge/-linkedin-424549?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mmadwn/)
 [![Email](https://img.shields.io/badge/-Email-424549?style=flat-square&logo=gmail)](mailto:muh.rdwan.u@gmail.com)
