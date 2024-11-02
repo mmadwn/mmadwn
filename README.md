@@ -39,9 +39,6 @@ Passionate about creating innovative solutions and learning new technologies ✨
   <a href="mailto:muh.rdwan.u@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/mmadwn/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="https://discord.com/users/357946202672726016" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
   </a>
