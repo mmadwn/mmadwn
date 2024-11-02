@@ -1,17 +1,17 @@
-### Hey, I'm Ridwan 👋 
+#### Hey, I'm Ridwan 👋 
 
 Passionate about creating innovative solutions and learning new technologies ✨
 
-## About Me
-- 🎓 Computer Engineering graduate from Diponegoro University
-- 💻 Exploring Web and Mobile Development
-- 🚀 Open to exciting opportunities in the tech industry
+### About Me
+- Computer Engineering graduate from Diponegoro University
+- Exploring Web and Mobile Development
+- Open to exciting opportunities in the tech industry
 
-## Skills & Interests
-- 🎨 Motion Design & Creative Development
-- 👨‍💻 Web and Mobile Development
+### Skills & Interests
+- Motion Design & Creative Development
+- Web and Mobile Development
 
-## Tech Stack
+### Tech Stack
 <div align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -31,7 +31,7 @@ Passionate about creating innovative solutions and learning new technologies ✨
   <img src="https://img.shields.io/badge/-Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian" />
 </div>
 
-## Connect
+### Connect
 <div align="center">
   <a href="https://www.linkedin.com/in/mmadwn/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
