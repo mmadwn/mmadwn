@@ -19,11 +19,9 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwindcss)
 ![GSAP](https://img.shields.io/badge/-GSAP-black?style=flat-square&logo=greensock)
-
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode)
 ![Obisidian](https://img.shields.io/badge/-Obisidian-black?style=flat-square&logo=obsidian)
-
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon)
