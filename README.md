@@ -1,12 +1,4 @@
-### Hey, I'm Ridwan 👋
-
-Passionate about creating innovative solutions and learning new technologies ✨
-
-| Career    | Details                                                  |
-| --------- | -------------------------------------------------------- |
-| Education | Computer Engineering graduate from Diponegoro University |
-| Focus     | Exploring Web and Mobile Development                     |
-| Status    | Open to exciting opportunities in the tech industry      |
+### Hey, I'm Ridwan 👋 |
 
 | Interests | Details                              |
 | --------- | ------------------------------------ |
