@@ -1,4 +1,4 @@
-### Hey, I'm Ridwan 👋 |
+### Hey, I'm Ridwan 👋
 
 | Interests | Details                              |
 | --------- | ------------------------------------ |
